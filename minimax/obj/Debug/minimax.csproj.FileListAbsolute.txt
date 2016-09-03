@@ -1,0 +1,1 @@
+C:\Users\jakst\Documents\git\minimax\minimax\bin\Debug\minimax.exe.config
